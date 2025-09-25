@@ -1,0 +1,882 @@
+oto riparata(e) con successo, %2 foto non riuscita(e) e %3 foto non sono state riparate! Prova la <b>Riparazione Avanzata</b> per le foto non riuscite.]]></Text>	  
+    </Control>
+    <Control ClassName="RepairComplterDesc_1" ControlType="11">
+      <Text><![CDATA[%1 foto riparata(e) con successo. Visualizza l'anteprima e salva subito le foto.]]></Text>
+    </Control>
+    <Control ClassName="AdvanceRepairComplterDesc_1" ControlType="11">
+      <Text><![CDATA[%1 foto riparata(e) con successo. Visualizza l'anteprima e salva subito le foto.]]></Text>
+    </Control>
+    <Control ClassName="AdvanceRepairErrorDesc1_1" ControlType="11">
+      <Text><![CDATA[%1 foto riparata con successo e %2 foto non riuscita(e). Si prega di <b>modificare la foto</b> del campione.]]></Text>	                  
+    </Control>
+    <Control ClassName="AdvanceRepairErrorDesc2_1" ControlType="11">
+      <Text><![CDATA[%1 foto riparata(e) con successo, %2 foto non riuscita(e) e %3 foto non sono state riparate. Si prega di <b>modificare la foto</b> del campione e riprova la riparazione.]]></Text>
+    </Control>
+	
+    <Control ClassName="VideoPreviewLimitDesc" ControlType="11">
+      <Text><![CDATA[Anteprima limitata a 30 secondi, salva sul computer per visualizzare un'anteprima completa.]]></Text>
+    </Control>    
+    <Control ClassName="NoFileSaveDesc" ControlType="11">
+      <Text><![CDATA[Tutti i video non sono stati riparati, nessun file da salvare.]]></Text>
+    </Control>    
+	<Control ClassName="SaveSuccessDesc" ControlType="11">
+      <Text><![CDATA[Video salvati con successo: %1 (i video non riparati non vengono salvati).]]></Text>
+    </Control>
+	<Control ClassName="SaveFailDesc" ControlType="11">
+      <Text><![CDATA[%1 file è/sono stato/i salvato/i  con successo, %2 file non riuscito/i .(video che non è stato riparato non verrà salvato.)]]></Text>
+	</Control>	
+    <Control ClassName="SaveAllFailDesc" ControlType="11">
+      <Text><![CDATA[File %1 non salvati.(video che non è stato riparato non verrà salvato.)]]></Text>
+    </Control>	
+	<Control ClassName="VideoRepairDesc5" ControlType="11">
+      <Text><![CDATA[Aggiungi il video per avviare il processo di riparazione.]]></Text>
+    </Control>	
+    <Control ClassName="BtnRegister" ControlType="13">
+      <Text><![CDATA[Accedi]]></Text>
+    </Control>
+	<Control ClassName="BtnRegister1" ControlType="13">
+      <Text><![CDATA[Account]]></Text>
+    </Control>	
+	<Control ClassName="VideoRepairTitle" ControlType="11">
+      <Text><![CDATA[Riparazione Video di Wondershare]]></Text>
+    </Control>
+	<Control ClassName="ButtonAddDesc" ControlType="11">
+      <Text><![CDATA[Aggiungi]]></Text>
+    </Control>
+	<Control ClassName="ButtonRemoveDesc" ControlType="11">
+      <Text><![CDATA[Rimuovi Tutti]]></Text>
+    </Control>
+	<Control ClassName="ButtonRemoveDescText" ControlType="11">
+      <Text><![CDATA[Vuoi rimuovere tutti i video?]]></Text>
+    </Control>
+	<Control ClassName="ButtonExportDesc" ControlType="11">
+      <Text><![CDATA[Salva Tutti]]></Text>
+    </Control>
+	<Control ClassName="ButtonRepairDesc" ControlType="11">
+      <Text><![CDATA[Ripara]]></Text>
+    </Control>
+	<Control ClassName="ButtonCancelDesc" ControlType="11">
+      <Text><![CDATA[Annulla Tutti]]></Text>
+    </Control>
+	<Control ClassName="ButtonBackDesc" ControlType="11">
+      <Text><![CDATA[Indietro]]></Text>
+    </Control>
+	<Control ClassName="ButtonBackDescText" ControlType="11">
+      <Text><![CDATA[<b>Sei sicuro di voler tornare alla schermata precedente? </b><br><br><br>Questa operazione cancellerà tutti i risultati riparati. Si consiglia di salvare tutti i video riparati prima di tornare.]]></Text>
+    </Control>
+	
+	<Control ClassName="StopRepairDesc" ControlType="11">
+      <Text><![CDATA[Sei sicuro di annullare la riparazione? I video non riparati non verranno riparati.]]></Text>
+	</Control>	
+	<Control ClassName="StopAdvanceRepairDesc" ControlType="11">
+      <Text><![CDATA[Desideri annullare la procedura? Sono presenti video non riparati.]]></Text>
+    </Control>   
+	<Control ClassName="SpaceFreeErrorDesc1" ControlType="11">
+      <Text><![CDATA[<b>Spazio insufficiente. </b><br><br><br>Per continuare con il prossimo passaggio, è necessario più spazio rispetto ai file originali. Si prega di gestire lo spazio su disco e riprovare.]]></Text>
+    </Control>
+	<Control ClassName="SpaceFreeErrorDesc2" ControlType="11">
+      <Text><![CDATA[<b>Spazio insufficiente! </b><br><br><br>Per salvare i video riparati, è necessario più spazio rispetto ai file originali. Seleziona un altro disco da salvare.]]></Text>
+    </Control>	
+  <Control ClassName="RemoteRepairErrorDesc1" ControlType="11">
+      <Text><![CDATA[%1 video riparato(i) con successo e %2 video non riuscito(i)! Prova ad <b>aggiungere il video di esempio</b> per i video non riusciti.]]></Text>
+    </Control> 
+  <Control ClassName="RemoteRepairErrorDesc2" ControlType="11">
+      <Text><![CDATA[%1 video riparati con successo, %2 video non sono stati riparati e %3 video non sono stati riparati! Prova ad <b>aggiungere il video di esempio</b> per i video non riusciti.]]></Text>	                    
+    </Control>	
+	<Control ClassName="RepairErrorDesc1" ControlType="11">
+      <Text><![CDATA[%1 riparazione/i di video riuscita/e, %2 fallita/e. Prova <b>Riparazione Avanzata</b> per i video falliti.]]></Text>
+    </Control>	
+	<Control ClassName="RepairErrorDesc2" ControlType="11">
+      <Text><![CDATA[%1 riparazione/i di video riuscita/e, %2 fallita/e, e %3 video non è/sono stato/i riparato/i. Prova <b>Riparazione Avanzata</b> per i video falliti.]]></Text>
+    </Control>	
+	<Control ClassName="RepairComplterDesc" ControlType="11">
+      <Text><![CDATA[%1 riparazione/i di video riuscita/e. Guarda l'anteprima e salva i video.]]></Text>
+    </Control>
+	<Control ClassName="AdvanceRepairComplterDesc" ControlType="11">
+      <Text><![CDATA[%1 riparazione/i di video riuscita/e. Guarda l'anteprima e salva i video ora.]]></Text>
+    </Control>
+	<Control ClassName="AdvanceRepairErrorDesc1" ControlType="11">
+      <Text><![CDATA[%1 riparazione/i di video riuscita/e, %2 non riuscita/e. Si prega di <b>modificare il video di esempio</b> e riparare di nuovo.]]></Text>
+    </Control>	
+	<Control ClassName="AdvanceRepairErrorDesc2" ControlType="11">
+      <Text><![CDATA[%1 riparazione/i di video riuscita/e, %2 non riuscita/e, e %3 video/i è/sono stato/i cancellato/i. Si prega di <b>modificare il video di esempio</b> e riparare di nuovo.]]></Text>
+    </Control>	
+	
+	<Control ClassName="ProtectedDialogTitle1" ControlType="11">
+      <Text><![CDATA[Autorizzazione insufficiente!]]></Text>
+    </Control>
+	<Control ClassName="ProtectedDialogTitle2" ControlType="11">
+      <Text><![CDATA[<font color=#676F81><b>Autorizzazione insufficiente<b></font><font color=#26324B> per salvare il file sul disco selezionato. Seleziona un altro disco.</font>]]></Text>
+    </Control>
+	<Control ClassName="ProtectedDialogTitle3" ControlType="11">
+      <Text><![CDATA[Riseleziona]]></Text>
+    </Control>	
+	<Control ClassName="ProtectedDialogTitle4" ControlType="11">
+      <Text><![CDATA[Spazio insufficiente!]]></Text>
+    </Control>
+	<Control ClassName="ProtectedDialogTitle5" ControlType="11">
+      <Text><![CDATA[Lo spazio non è sufficiente per salvare i video riparati. Riorganizza il tuo computer e riprova.]]></Text>
+    </Control>
+	<Control ClassName="ProtectedDialogTitle5_ss" ControlType="11">
+      <Text><![CDATA[Per salvare i video riparati c’è bisogno di uno spazio di archiviazione maggiore rispetto alle dimensioni del file originale.]]></Text>
+    </Control>
+	<Control ClassName="ProtectedDialogTitle5_s" ControlType="11">
+      <Text><![CDATA[Per salvare il video riparato c’è bisogno di uno spazio di archiviazione maggiore rispetto alle dimensioni del file originale.]]></Text>
+    </Control>
+	<Control ClassName="ScanFrameExit" ControlType="11">
+      <Text><![CDATA[Sei sicuro di voler uscire?]]></Text>
+    </Control>
+	<Control ClassName="ScanFrameHomeBack" ControlType="11">
+      <Text><![CDATA[Se esci, il risultato della scansione non verrà salvato. Sei sicuro di voler uscire?]]></Text>
+    </Control>
+	
+	<Control ClassName="IsAdmin" ControlType="11">
+      <Text><![CDATA[Per eseguire questo programma è necessario disporre dei diritti di amministratore.]]></Text>
+    </Control>
+	<Control ClassName="strError" ControlType="11">
+        <Text><![CDATA[Repairit di Wondershare è ancora in corso!]]></Text>
+      </Control>
+      <Control ClassName="strWaring" ControlType="11">
+        <Text><![CDATA[Attenzione]]></Text>
+      </Control> 
+<Control ClassName="DateTimeOverLimit" ControlType="11">
+        <Text><![CDATA[Il programma ha rilevato che il tuo account ha superato il limite temporale. Se desideri ancora utilizzarlo, ti preghiamo di contattarci.]]></Text>
+      </Control>	  
+  </Dialog>
+   <Dialog ClassName="Piracy">
+      <Control ClassName="PiracyNetWorkDesc" ControlType="11">
+      <Text><![CDATA[Per attivare il software è necessaria una connessione a Internet. Controlla la tua rete o contatta il tuo amministratore IT.]]></Text>
+    </Control>
+	<Control ClassName="PiracyDesc1" ControlType="11">
+      <Text><![CDATA[Utilizzare un software piratato comporta rischi!]]></Text>
+    </Control>
+	<Control ClassName="PiracyDesc2" ControlType="11">
+      <Text><![CDATA[Avvertimento:]]></Text>
+    </Control>
+	<Control ClassName="PiracyDesc3" ControlType="11">
+      <Text><![CDATA[Un software piratato può infettare il computer con virus, e può causare una perdita dei dati.]]></Text>
+    </Control>
+	<Control ClassName="PiracyDesc4" ControlType="11">
+      <Text><![CDATA[Ecco l'offerta a tempo limitato]]></Text>
+    </Control>
+	<Control ClassName="PiracyDesc5" ControlType="11">
+      <Text><![CDATA[60% di sconto sull’acquisto della licenza originale.]]></Text>
+    </Control>
+	<Control ClassName="PiracyDesc6" ControlType="11">
+      <Text><![CDATA[Nota: si consiglia di ripristinare i file scansionati il prima possibile, altrimenti i dati potrebbero essere sovrascritti e il ripristino potrebbe non andare a buon fine.]]></Text>
+    </Control>
+	<Control ClassName="PiracyDesc7" ControlType="11">
+      <Text><![CDATA[La tua applicazione sembra essere danneggiata o incompleta, si prega di scaricarla e reinstallarla.]]></Text>
+    </Control>
+	<Control ClassName="PiracyDesc8" ControlType="11">
+      <Text><![CDATA[<a href="#"><font color=#0F92F1>Sito ufficiale</font></a>]]></Text>
+    </Control>
+	<Control ClassName="UnVerifyTrustDesc1" ControlType="11">
+      <Text><![CDATA[A causa di un software pirata sei a rischio di danni; per continuare ad utilizzare il software, si prega di acquistare il programma originale.]]></Text>
+    </Control>
+	<Control ClassName="UnVerifyTrustDesc2" ControlType="11">
+      <Text><![CDATA[Acquista]]></Text>
+    </Control>
+	<Control ClassName="UnVerifyTrustDesc3" ControlType="11">
+      <Text><![CDATA[Scarica]]></Text>
+    </Control>
+	<Control ClassName="PreviewLoadDesc" ControlType="11">
+      <Text><![CDATA[Caricamento del file in corso…si prega di attendere.]]></Text>
+    </Control>
+	<Control ClassName="UnVerifyTrustDesc4" ControlType="11">
+      <Text><![CDATA[Dopo l'acquisto, scarica e installa il software originale dal sito Web ufficiale di Recoverit. http://recoverit.wondershare.com]]></Text>
+    </Control>
+	 <Control ClassName="UserAssistantRetry" ControlType="13">
+      <Text><![CDATA[Riprova]]></Text>
+    </Control>
+	<Control ClassName="UserAssistantRefund" ControlType="11">
+      <Text><![CDATA[È stato rilevato un rimborso per il tuo ordine. Se desideri continuare a utilizzare il programma, acquistalo.]]></Text>
+    </Control>
+	<Control ClassName="UserAssistantWaring" ControlType="11">
+      <Text><![CDATA[È stato rilevato che il codice di registrazione ha superato il periodo di autorizzazione / numero di PC disponibili. Se desideri continuare a utilizzare il programma, acquistalo.]]></Text>
+    </Control>
+	<Control ClassName="UserAssistantQuit" ControlType="11">
+      <Text><![CDATA[Si è verificato un problema con l'autorizzazione dell'account. Riprova.]]></Text>
+    </Control>	
+	<Control ClassName="UserAssistantQuit1" ControlType="11">
+      <Text><![CDATA[Si è verificato un problema con l'autorizzazione dell'account. ]]></Text>
+    </Control>
+  </Dialog>
+  <Dialog ClassName="VideoRepairSampleDialog">
+  <Control ClassName="SampleVideoDesc" ControlType="11">
+			<Text>
+				<![CDATA[<a href="#"><Font color="#047CF3">Come ottenere un video campione?</Font></a>]]></Text>
+		</Control>
+        <Control ClassName="strlblCloudTitle" ControlType="11">
+      <Text><![CDATA[Riparazione Automatica]]></Text>
+    </Control>
+     <Control ClassName="strlblCloudDesc" ControlType="11">
+      <Text><![CDATA[Se non hai un video di esempio, puoi provare questa funzione.Sceglieremo quello più adatto al tuo video.]]></Text>
+    </Control> 
+	<Control ClassName="strlblDesc" ControlType="11">
+      <Text><![CDATA[Un video campione è un video riproducibile e non danneggiato, creato con lo stesso dispositivo o nello stesso formato del video da riparare.]]></Text>
+    </Control>
+       <Control ClassName="strlblTitle" ControlType="11">
+      <Text><![CDATA[Aggiungi un video campione per eseguire la riparazione:]]></Text>
+    </Control>
+	<Control ClassName="strcheckBox" ControlType="11">
+      <Text><![CDATA[Applica a tutti i video non riparati.]]></Text>
+    </Control>
+	<Control ClassName="strtStartAdvance" ControlType="11">
+      <Text><![CDATA[Se avvii la modalità di Riparazione Avanzata, non sarà possibile salvare i video riparati. Vuoi salvare i video riparati prima di avviare la Riparazione Avanzata?]]></Text>
+    </Control>
+	<Control ClassName="ButtonRepairDesc" ControlType="11">
+      <Text><![CDATA[Avanti]]></Text>
+    </Control>	
+  </Dialog>
+  <Dialog ClassName="VideoSampleHintDialog">		
+		<Control ClassName="Title" ControlType="11">
+			<Text>
+				<![CDATA[Come ottenere un video campione?]]>
+			</Text>
+		</Control>
+		<Control ClassName="Hint1" ControlType="11">
+			<Text>
+				<![CDATA[Modalità 1]]>
+			</Text>
+		</Control>
+		<Control ClassName="Hint2" ControlType="11">
+			<Text>
+				<![CDATA[Modalità 2]]>
+			</Text>
+		</Control>
+		<Control ClassName="Hint3" ControlType="11">
+			<Text>
+				<![CDATA[Modalità 3]]>
+			</Text>
+		</Control>	
+		<Control ClassName="Desc1" ControlType="11">
+			<Text>
+				<![CDATA[Usare lo stesso dispositivo per girare un nuovo video nello stesso formato.]]>
+			</Text>
+		</Control>
+		<Control ClassName="Desc2" ControlType="11">
+			<Text>
+				<![CDATA[Cercare su Internet un video nello stesso formato ripreso dallo stesso dispositivo.]]>
+			</Text>
+		</Control>
+		<Control ClassName="Desc3" ControlType="11">
+			<Text>
+				<![CDATA[Usare un video dello stesso formato che hai ripreso con questo dispositivo in passato.]]>
+			</Text>
+		</Control>
+		<Control ClassName="Apply" ControlType="11">
+			<Text>
+				<![CDATA[OK]]>
+			</Text>
+		</Control>	
+	</Dialog>
+  <Dialog ClassName="PhotoRepairSampleDialog">
+	<Control ClassName="strlblTitle" ControlType="11">
+      <Text><![CDATA[Aggiungi una foto del campione da riparare]]></Text>
+    </Control>  
+	<Control ClassName="strlblDesc" ControlType="11">
+      <Text><![CDATA[Una foto del campione è un buon file apribile creato con lo stesso dispositivo o lo stesso formato della foto danneggiata.]]></Text>                 
+    </Control>
+	<Control ClassName="strcheckBox" ControlType="11">
+      <Text><![CDATA[Applica a tutte le foto dello stesso formato.]]></Text>
+    </Control>
+	<Control ClassName="ButtonRepairDesc" ControlType="11">
+      <Text><![CDATA[Ripara]]></Text>
+    </Control>	
+  </Dialog>
+  <Dialog ClassName="PhotoRepairAllSampleDialog">
+	<Control ClassName="strlblTitle" ControlType="11">
+      <Text><![CDATA[Aggiungi una foto del campione da riparare]]></Text>
+    </Control>  
+	<Control ClassName="strlblDesc" ControlType="11">
+      <Text><![CDATA[Una foto di esempio è un buon file apribile creato con lo stesso dispositivo o lo stesso formato della foto danneggiata. La foto di esempio verrà applicata a tutte le foto dello stesso formato]]></Text>                 
+    </Control>
+	<Control ClassName="strFileExt" ControlType="11">
+      <Text><![CDATA[Riparazione foto %1]]></Text>
+    </Control>
+	<Control ClassName="ButtonRepairDesc" ControlType="11">
+      <Text><![CDATA[Avvia la Riparazione Avanzata]]></Text>
+    </Control>
+	<Control ClassName="AddSampleDesc1" ControlType="11">
+      <Text><![CDATA[Aggiungi una foto di esempio]]></Text>
+    </Control> 
+	<Control ClassName="AddSampleDesc2" ControlType="11">
+      <Text><![CDATA[Aggiungi una foto di esempio]]></Text>
+    </Control>	
+  </Dialog>
+  <Dialog ClassName="VideoPreviewDialog">
+    <Control ClassName="PlayerDesc" ControlType="11">
+      <Text><![CDATA[Il video di anteprima ha una risoluzione limitata. Per la risoluzione effettiva, salvalo sul tuo computer per guardarlo.]]></Text>
+    </Control>	
+	 <Control ClassName="RepairFailedDesc" ControlType="11">
+      <Text><![CDATA[Impossibile riprodurre il video. Prova a utilizzare il video di esempio per la modalità di Riparazione Avanzata.]]></Text>
+    </Control>
+	 <Control ClassName="AdvanceRepairFailedDesc" ControlType="11">
+      <Text><![CDATA[Impossibile riprodurre il video. Prova a modificare il Video di Esempio e riprova.]]></Text>
+    </Control>
+      <Control ClassName="RepairRemoteFailedDesc" ControlType="11">
+      <Text><![CDATA[Impossibile riprodurre il video. Prova ad aggiungere il tuo Video di Esempio per la modalità di Riparazione Avanzata.]]></Text>
+    </Control>
+    <Control ClassName="RemotePlayerDesc" ControlType="11">
+      <Text><![CDATA[Il video di anteprima ha una risoluzione limitata. Per la risoluzione effettiva, salvalo sul tuo computer per guardarlo.]]></Text>
+    </Control>
+    <Control ClassName="AdvanceRemoteRepair" ControlType="11">
+      <Text><![CDATA[Se non sei soddisfatto(a) della qualità del video, prova ad <a href="#"><Font color="#0F92F1">aggiungere il tuo video di esempio</Font></a> per riparare di nuovo.]]></Text>
+    </Control>
+	<Control ClassName="AdvanceRepair" ControlType="11">
+      <Text><![CDATA[Se la qualità del video non soddisfa le tue aspettative, prova la modalità di <a href="#"><Font color="#0F92F1">Riparazione Avanzata</Font></a>.]]></Text>
+    </Control>
+	<Control ClassName="ChangeSample" ControlType="11">
+      <Text><![CDATA[Se la qualità del video non soddisfa le tue aspettative, prova a <a href="#"><Font color="#0F92F1">Cambiare il Video Campione</Font></a> e riparare di nuovo.]]></Text>
+    </Control>
+	<Control ClassName="strRecover" ControlType="11">
+      <Text><![CDATA[Salva]]></Text>
+    </Control>
+	<Control ClassName="PreviewLoadDesc" ControlType="11">
+      <Text><![CDATA[Caricamento del file in corso ... Attendi.]]></Text>
+    </Control>
+	<Control ClassName="PreviewMaxLoadDesc" ControlType="11">
+      <Text><![CDATA[Il file è troppo grande. Ci vorrà del tempo per caricare l'anteprima del video, attendi pazientemente.]]></Text>
+    </Control>
+	<Control ClassName="fiveThumbnail" ControlType="11">
+      <Text><![CDATA[Cinque screenshot mostrano il contenuto del video.]]></Text>
+    </Control>
+  </Dialog>
+  <Dialog ClassName="PhotoPreviewDialog">
+	 <Control ClassName="RepairFailedDesc" ControlType="11">
+      <Text><![CDATA[Impossibile guardare la foto. Prova a utilizzare la Foto del Campione per la Modalità di Riparazione Avanzata.]]></Text>
+    </Control>
+	 <Control ClassName="AdvanceRepairFailedDesc" ControlType="11">
+      <Text><![CDATA[Impossibile guardare la foto. Prova a midificare la foto del campione e riprova.]]></Text>
+    </Control>
+	<Control ClassName="AdvanceRepairFaileSavedDesc" ControlType="11">
+      <Text><![CDATA[Impossibile visualizzare questa foto. Prova a cambiare la Foto di Esempio e riprova, oppure salva sul tuo computer e visualizza l'anteprima.]]></Text>
+    </Control>
+	 <Control ClassName="RepairFailedSaveDesc" ControlType="11">
+      <Text><![CDATA[Impossibile visualizzare questa foto. Prova a utilizzare la Foto di Esempio per la modalità di Riparazione Avanzata o salva sul tuo computer e visualizza l'anteprima.]]></Text>
+    </Control>
+	<Control ClassName="FormatFailDesc" ControlType="11">
+      <Text><![CDATA[Questo formato di foto non supporta l'anteprima, salva sul tuo computer per visualizzare l'anteprima.]]></Text>
+    </Control>
+	<Control ClassName="AdvanceRepair" ControlType="11">
+      <Text><![CDATA[Se non sei soddisfatto della qualità della foto, prova la Modalità di Riparazione Avanzata per ripararla di nuovo.]]></Text>
+    </Control>
+	<Control ClassName="ChangeSample" ControlType="11">
+      <Text><![CDATA[Se non sei soddisfatto della qualità della foto, prova a Modificare la Foto del Campione per ripararla di nuovo. ]]></Text>
+    </Control>
+	<Control ClassName="strRecover" ControlType="11">
+      <Text><![CDATA[Salva]]></Text>
+    </Control>
+	<Control ClassName="PreviewLoadDesc" ControlType="11">
+      <Text><![CDATA[Il file si sta caricando ... attendi con pazienza.]]></Text>
+    </Control>
+	<Control ClassName="RepairSubFailedDesc" ControlType="11">
+      <Text><![CDATA[Impossibile visualizzare questa foto. È possibile visualizzare in anteprima altri risultati di riparazione o salvarli sul computer per visualizzarli in anteprima.]]></Text>
+    </Control>
+  </Dialog>
+  <Dialog ClassName="HintDialog">
+	 <Control ClassName="title" ControlType="11">
+      <Text><![CDATA[Acquista una licenza per salvare i video riparati.]]></Text>
+    </Control>
+	
+	<Control ClassName="Header1" ControlType="11">
+      <Text><![CDATA[Caratteristiche]]></Text>
+    </Control>
+	<Control ClassName="Header2" ControlType="11">
+      <Text><![CDATA[Riparazione Video]]></Text>
+    </Control>
+	<Control ClassName="Header3" ControlType="11">
+      <Text><![CDATA[Toolkit di riparazione]]></Text>
+    </Control>
+	
+	<Control ClassName="TextDesc1" ControlType="11">
+      <Text><![CDATA[Ripara i video in multipli formati]]></Text>
+    </Control>
+	<Control ClassName="TextDesc2" ControlType="11">
+      <Text><![CDATA[Ripara e visualizza l'anteprima dei video]]></Text>
+    </Control>
+	<Control ClassName="TextDesc3" ControlType="11">
+      <Text><![CDATA[Riparazione Avanzata di Video]]></Text>
+    </Control>
+	<Control ClassName="TextDesc4" ControlType="11">
+      <Text><![CDATA[Salva video]]></Text>
+    </Control>
+	<Control ClassName="TextDesc5" ControlType="11">
+      <Text><![CDATA[Verifica di campione video]]></Text>
+    </Control>
+	<Control ClassName="TextDesc6" ControlType="11">
+      <Text><![CDATA[Ripara le foto in multipli formati]]></Text>
+    </Control>
+	<Control ClassName="TextDesc7" ControlType="11">
+      <Text><![CDATA[Riparazione Avanzata di Foto]]></Text>
+    </Control>
+    	<Control ClassName="TextDesc8" ControlType="11">
+      <Text><![CDATA[Visualizza l'anteprima e salva le foto]]></Text>
+    </Control>
+	
+	 <Control ClassName="title_1" ControlType="11">
+      <Text><![CDATA[Acquista una Licenza per Salvare la Foto Riparata!]]></Text>
+    </Control>
+	
+	<Control ClassName="Header2_1" ControlType="11">
+      <Text><![CDATA[Riparazione Foto]]></Text>
+    </Control>
+	<Control ClassName="TextDesc1_1" ControlType="11">
+      <Text><![CDATA[Ripara le foto in multipli formati]]></Text>
+    </Control>
+	<Control ClassName="TextDesc2_1" ControlType="11">
+      <Text><![CDATA[Riparazione Avanzata di Foto]]></Text>
+    </Control>
+	<Control ClassName="TextDesc3_1" ControlType="11">
+      <Text><![CDATA[Visualizza l'anteprima e salva le foto]]></Text>
+    </Control>
+	<Control ClassName="TextDesc4_1" ControlType="11">
+      <Text><![CDATA[Vari risultati di riparazione]]></Text>
+    </Control>
+	<Control ClassName="TextDesc5_1" ControlType="11">
+      <Text><![CDATA[Ripara i video in multipli formati]]></Text>
+    </Control>
+	<Control ClassName="TextDesc6_1" ControlType="11">
+      <Text><![CDATA[Visualizza l'anteprima e salva i video]]></Text>
+    </Control>
+	<Control ClassName="TextDesc7_1" ControlType="11">
+      <Text><![CDATA[Riparazione Avanzata di Video]]></Text>
+    </Control>
+	<Control ClassName="TextDesc8_1" ControlType="11">
+      <Text><![CDATA[Verifica di campione video]]></Text>
+    </Control>
+	
+	<Control ClassName="ValueDesc1" ControlType="11">
+      <Text><![CDATA[Illimitato]]></Text>
+    </Control>
+	<Control ClassName="ValueDesc2" ControlType="11">
+      <Text><![CDATA[Solo 30 secondi]]></Text>
+    </Control>
+	
+	<Control ClassName="BtnBuy" ControlType="13">
+      <Text><![CDATA[Acquista Ora]]></Text>
+    </Control>
+	<Control ClassName="labelRegister" ControlType="11">
+      <Text><![CDATA[Hai già acquistato? Vai ad <a href="#"><Font color="#0F92F1">Accedere<Font></a> ora!]]></Text>
+    </Control>
+	
+	<Control ClassName="NoteDesc1" ControlType="11">
+      <Text><![CDATA[Hai ancora dati da recuperare? <br>Prova Recoverit per recuperare i file persi ora!]]></Text>
+    </Control>
+	<Control ClassName="NoteDesc2" ControlType="11">
+      <Text><![CDATA[Recupera i file eliminati.]]></Text>
+    </Control>
+	<Control ClassName="NoteDesc3" ControlType="11">
+      <Text><![CDATA[Recoverit richiede licenze separate.]]></Text>
+    </Control>
+	<Control ClassName="btnMore" ControlType="13">
+      <Text><![CDATA[più dettagli]]></Text>
+    </Control>
+	
+  </Dialog>
+  <Dialog ClassName="VideoRepairMatchDialog">
+    <Control ClassName="textDesc1" ControlType="11">
+      <Text><![CDATA[Analisi del video campione in corso. Si prega di attendere…]]></Text>
+    </Control>
+	<Control ClassName="textDesc2" ControlType="11">
+      <Text><![CDATA[Video danneggiato]]></Text>
+    </Control>
+	<Control ClassName="textDesc3" ControlType="11">
+      <Text><![CDATA[Video Campione]]></Text>
+    </Control>
+	<Control ClassName="textDesc4" ControlType="11">
+      <Text><![CDATA[Analisi completata con successo. Adesso è possibile procedere con la riparazione avanzata.]]></Text>
+    </Control>
+	<Control ClassName="textDesc5" ControlType="11">
+      <Text><![CDATA[Il <b>Formato</b> non corrisponde, si prega di modificare un altro video di esempio. Altrimenti, la qualità dei video riparati potrebbe non essere così buona.]]></Text>
+    </Control>
+	<Control ClassName="textDesc6" ControlType="11">
+      <Text><![CDATA[La <b>Modifica Video</b> non corrisponde, si prega di modificare un altro video di esempio. Altrimenti, la qualità dei video riparati potrebbe non essere così buona.]]></Text>
+    </Control>
+	<Control ClassName="textDesc7" ControlType="11">
+      <Text><![CDATA[Il <b>Fabbricante</b> non conrrisponde, si prega di modificare un altro video di esempio. Altrimenti, la qualità dei video riparati potrebbe non essere così buona.]]></Text>
+    </Control>
+	<Control ClassName="textDesc8" ControlType="11">
+      <Text><![CDATA[La <b>Risoluzione</b> non corrisponde, si prega di modifacare un altro video di esempio. Altrimenti, la qualità dei video riparati potrebbe non essere così buona.]]></Text>
+    </Control>
+	<Control ClassName="textDesc9" ControlType="11">
+      <Text><![CDATA[Ripara]]></Text>
+    </Control>
+	<Control ClassName="textDesc10" ControlType="11">
+      <Text><![CDATA[Cambia Video Campione]]></Text>
+    </Control>
+	<Control ClassName="labelCheckBoxTitle" ControlType="11">
+		<Text><![CDATA[Applica a tutti i video dello stesso formato.]]></Text>
+	</Control>
+  </Dialog>
+   <Dialog ClassName="VideoRepairSimilarDialog">
+	 <Control ClassName="textDesc1" ControlType="11">
+      <Text><![CDATA[Questo video di esempio viene applicato anche agli altri %1 video danneggiato/i. Vuoi riparare tutti i video?]]></Text>
+    </Control>
+	<Control ClassName="textDesc2" ControlType="11">
+      <Text><![CDATA[Sì]]></Text>
+    </Control>
+	<Control ClassName="textDesc3" ControlType="11">
+      <Text><![CDATA[No]]></Text>
+    </Control>
+  </Dialog>
+  <Dialog ClassName="CRegisterDialog" PageType ="Register">
+      <Control ClassName="m_closeButton" ControlType="13">
+        <StatusTip StatusTipStr="Chiudi" />
+      </Control>
+      <Control ClassName="m_lblText" ControlType="11" LabState="RegisterSuccss">
+        <Text><![CDATA[Repairit di Wondershare è stato registrato con successo!]]></Text>
+      </Control>
+      <Control ClassName="m_lblEmail" ControlType="1">
+        <Text><![CDATA[Email di Licenza:]]></Text>
+        <Font Bold="1" PointSize="9" />
+      </Control>
+      <Control ClassName="m_lblCode" ControlType="1">
+        <Text><![CDATA[Codice di Registrazione:]]></Text>
+        <Font Bold="1" PointSize="9" />
+      </Control>
+      <!--<Control ClassName="m_lblNote" ControlType="1">
+        <Text><![CDATA[Nota:]]></Text>
+        <Font Bold = "0" PointSize = "9"/>
+        <Margins Left="37" Top="290" Width ="30" Height="16"/>
+      </Control>-->
+      <Control ClassName="m_closeDlgButton" ControlType="13">
+        <Text><![CDATA[Chiudi]]></Text>
+      </Control>
+      <Control ClassName="m_lblLetterTop" ControlType="1">
+        <Text><![CDATA[<b>Nota:</b> Se hai dei problemi con il codice di registrazione o il software, contatta: <Font color="#217EC4"> <a href="0">Supporto</a></Font>.]]></Text>
+        <Font Bold="0" PointSize="9" />
+      </Control>
+    </Dialog>
+    <Dialog ClassName="CRegisterDialog" PageType="UnRegister">
+	  <Control ClassName="m_lblText" ControlType="11" LabState ="EmailNull">
+        <Text><![CDATA[Il campo dell’email non può essere vuoto, riprova.]]></Text>
+      </Control>
+      <Control ClassName="m_lblText" ControlType="11" LabState="CodeNull">
+        <Text><![CDATA[Il campo del codice di registrazione non può essere vuoto. Riprova.]]></Text>
+      </Control>
+      <Control ClassName="m_lblText" ControlType="11" LabState="EmailError">
+        <Text><![CDATA[L'email di licenza non è valida. Riprova.]]></Text>
+      </Control>
+      <Control ClassName="m_lblText" ControlType="11" LabState="RegisterFile">
+        <Text><![CDATA[L'email di licenza o il codice di registrazione non è valido! Controlla la corrispondenza delle maiuscole e minuscole; controlla i tuoi dati di registrazione o assicurati che il codice di registrazione corrisponda alla versione in dotazione.]]></Text>
+      </Control>
+      <Control ClassName="m_closeDlgButton" ControlType="13">
+        <Text><![CDATA[Prova Gratuita]]></Text>
+      </Control>
+      <Control ClassName="m_RegisterButton" ControlType="13">
+        <Text><![CDATA[Registrati]]></Text>
+      </Control>
+      <Control ClassName="m_BuyNowButton" ControlType="13">
+        <Text><![CDATA[Acquista Ora]]></Text>
+      </Control>
+      <Control ClassName="m_lblLetterTop" ControlType="1">
+        <Text><![CDATA[<b>Nota:</b>Se hai dei problemi con il codice di registrazione o il software, contatta: <Font color="#217EC4"> <a href="1">Supporto</a></Font>.]]></Text>
+        <Font Bold="0" PointSize="9" />
+      </Control>
+    </Dialog>
+  
+   <Dialog ClassName="CPromptDialog" PageType="Stop0">
+      <Control ClassName="m_closeButton" ControlType="13">
+        <StatusTip StatusTipStr="Chiudi" />
+      </Control>
+      <Control ClassName="m_sureButton" ControlType="13">
+        <Text><![CDATA[Sì]]></Text>
+      </Control>
+      <Control ClassName="m_NoButton" ControlType="13">
+        <Text><![CDATA[No]]></Text>
+      </Control>
+    </Dialog>
+    <Dialog ClassName="CPromptDialog" PageType="Stop1">
+      <Control ClassName="m_sureButton" ControlType="13">
+        <Text><![CDATA[Interrompi]]></Text>
+      </Control>
+      <Control ClassName="m_cancelButton" ControlType="13">
+        <Text><![CDATA[Annulla]]></Text>
+      </Control>
+    </Dialog>
+    <Dialog ClassName="CPromptDialog" PageType="Stop2">
+      <Control ClassName="m_ExitButton" ControlType="13">
+        <Text><![CDATA[Esci]]></Text>
+      </Control>
+      <Control ClassName="m_cancelButton" ControlType="13">
+        <Text><![CDATA[Annulla]]></Text>
+      </Control>
+    </Dialog>
+    <Dialog ClassName="CPromptDialog" PageType="Stop3">
+      <Control ClassName="m_NoButton" ControlType="13">
+        <Text><![CDATA[No]]></Text>
+      </Control>
+      <Control ClassName="m_cancelButton" ControlType="13">
+        <Text><![CDATA[Annulla]]></Text>
+      </Control>
+      <Control ClassName="m_sureButton" ControlType="13">
+        <Text><![CDATA[Salva]]></Text>
+      </Control>
+    </Dialog>
+    <Dialog ClassName="CPromptDialog" PageType="Stop4">
+      <Control ClassName="m_sureButton" ControlType="13">
+        <Text><![CDATA[OK]]></Text>
+      </Control>
+    </Dialog>
+    <Dialog ClassName="CPromptDialog" PageType="Stop5">
+      <Control ClassName="m_sureButton" ControlType="13">
+        <Text><![CDATA[Sovrascrivi]]></Text>
+      </Control>
+      <Control ClassName="m_cancelButton" ControlType="13">
+        <Text><![CDATA[Annulla]]></Text>
+      </Control>
+    </Dialog>
+    <Dialog ClassName="CPromptDialog" PageType="Stop6">
+      <Control ClassName="m_sureButton" ControlType="13">
+        <Text><![CDATA[Salva]]></Text>
+      </Control>
+      <Control ClassName="m_cancelButton" ControlType="13">
+        <Text><![CDATA[Annulla]]></Text>
+      </Control>
+    </Dialog>
+	 <Dialog ClassName="CPromptDialog" PageType="Stop7">
+      <Control ClassName="m_sureButton" ControlType="13">
+        <Text><![CDATA[Continua]]></Text>
+      </Control>
+      <Control ClassName="m_cancelButton" ControlType="13">
+        <Text><![CDATA[Cambia cartella]]></Text>
+      </Control>
+    </Dialog>
+	<Dialog ClassName="CRecoveryDialog">
+      <Control ClassName="t_strNewName" ControlType="11">
+        <Text><![CDATA[Nuova cartella]]></Text>
+      </Control>
+      <Control ClassName="m_newFolderButton" ControlType="13">
+        <Text><![CDATA[Nuova cartella]]></Text>
+      </Control>
+      <Control ClassName="m_recoverButton" ControlType="13">
+        <Text><![CDATA[Recupera]]></Text>
+      </Control>
+      <Control ClassName="m_lblTipText" ControlType="11">
+        <Text><![CDATA[Si prega di scegliere un percorso per salvare i video riparati.]]></Text>
+      </Control>
+	   <Control ClassName="m_lblTipText_1" ControlType="11">
+        <Text><![CDATA[Scegli un percorso per salvare le foto riparate.]]></Text>
+      </Control>
+       <Control ClassName="strTipText_1" ControlType="11">
+        <Text><![CDATA[Scegli un percorso per salvare le foto riparate.]]></Text>
+      </Control>
+      <Control ClassName="strSavePath" ControlType="11">
+        <Text><![CDATA[Ti consigliamo di non salvare i file sulla stessa unità dove li hai persi. (Ciò potrebbe ridurre la possibilità di recupero)]]></Text>
+      </Control>
+	  <Control ClassName="strRecycleSave" ControlType="11">
+        <Text><![CDATA[Consigliamo di salvare i file recuperati su un disco esterno per evitare di sovrascrivere i file.]]></Text>
+      </Control>
+      <Control ClassName="strTipText" ControlType="11">
+        <Text><![CDATA[Si prega di scegliere un percorso per salvare i video riparati.]]></Text>
+      </Control>
+      <Control ClassName="strEnough" ControlType="11">
+        <Text><![CDATA[Spazio non sufficiente per salvare i dati recuperati. Seleziona un volume diverso o collega un supporto di archiviazione esterno per salvare i tuoi dati recuperati.]]></Text>
+      </Control>
+      <Control ClassName="strWaring" ControlType="11">
+        <Text><![CDATA[Salvare dati nella partizione di origine ridurrà la possibilità di recupero. Vuoi ancora salvare i dati in essa?]]></Text>
+      </Control>
+      <Control ClassName="t_lookIn" ControlType="11">
+        <Text><![CDATA[Guarda in]]></Text>
+      </Control>
+      <Control ClassName="t_fileName" ControlType="11">
+        <Text><![CDATA[Nome file]]></Text>
+      </Control>
+      <Control ClassName="t_flitType" ControlType="11">
+        <Text><![CDATA[Tipo file]]></Text>
+      </Control>
+      <Control ClassName="t_title" ControlType="11">
+        <Text><![CDATA[Salva come]]></Text>
+      </Control>
+      <Control ClassName="t_saveButton" ControlType="11">
+        <Text><![CDATA[Salva Tutti]]></Text>
+      </Control>
+      <Control ClassName="t_cancelButton" ControlType="11">
+        <Text><![CDATA[Annulla]]></Text>
+      </Control>
+      <Control ClassName="m_pDeskTop" ControlType="8">
+        <Text><![CDATA[ Desktop]]></Text>
+      </Control>
+      <Control ClassName="m_pDocument" ControlType="8">
+        <Text><![CDATA[ Miei Documenti]]></Text>
+      </Control>
+      <Control ClassName="m_pComputer" ControlType="8">
+        <Text><![CDATA[ Mio Computer]]></Text>
+      </Control>
+      <Control ClassName="o_lookIn" ControlType="11">
+        <Text><![CDATA[Guarda in]]></Text>
+      </Control>
+      <Control ClassName="o_fileName" ControlType="11">
+        <Text><![CDATA[Nome file]]></Text>
+      </Control>
+      <Control ClassName="o_flitType" ControlType="11">
+        <Text><![CDATA[Tipo file]]></Text>
+      </Control>
+      <Control ClassName="o_title" ControlType="11">
+        <Text><![CDATA[Carica Risultato File ]]></Text>
+      </Control>
+      <Control ClassName="o_saveButton" ControlType="11">
+        <Text><![CDATA[aperta]]></Text>
+      </Control>
+      <Control ClassName="o_loadButton" ControlType="11">
+        <Text><![CDATA[Carica]]></Text>
+      </Control>
+      <Control ClassName="o_cancelButton" ControlType="11">
+        <Text><![CDATA[Annulla]]></Text>
+      </Control>
+      <Control ClassName="o_message" ControlType="11">
+        <Text><![CDATA[Inserisci l'unità disco]]></Text>
+      </Control>
+      <Control ClassName="m_RenameText" ControlType="11">
+        <Text><![CDATA[Il nuovo nome è già esistente o conduce ad un file aperto.]]></Text>
+      </Control>
+	  
+	  <Control ClassName="strPEWaring" ControlType="11">
+        <Text><![CDATA[Poiché il tuo computer non può essere riavviato normalmente, ripristina i file su un disco esterno invece che sul disco rigido locale.]]></Text>
+      </Control>
+    </Dialog>
+	<Dialog ClassName="CrecoveryTreeModel">
+      <Control ClassName="m_sDocumentItem" ControlType="10">
+        <Text><![CDATA[Miei Documenti]]></Text>
+      </Control>
+      <Control ClassName="m_sDeskTopItem" ControlType="10">
+        <Text><![CDATA[Desktop]]></Text>
+      </Control>
+      <Control ClassName="m_sComputerItem" ControlType="10">
+        <Text><![CDATA[Mio Computer]]></Text>
+      </Control>
+    </Dialog>
+	<Dialog ClassName="CProgressDialog">
+      <Control ClassName="m_stopButton" ControlType="13">
+        <Text><![CDATA[Interrompi]]></Text>
+      </Control>
+      <Control ClassName="strRecoverFilesNum" ControlType="11">
+        <Text><![CDATA[Salvataggio del video: ]]></Text>
+      </Control>
+	   <Control ClassName="strRecoverFilesNum_1" ControlType="11">
+        <Text><![CDATA[Salvando %1 di %2 foto:]]></Text>
+      </Control>
+      <Control ClassName="strRemainTime" ControlType="11">
+        <Text><![CDATA[Tempo Rimanente: ]]></Text>
+      </Control>
+      <Control ClassName="strSaveTitle" ControlType="11">
+        <Text><![CDATA[Salvataggio in corso, attendi per favore...]]></Text>
+      </Control>
+      <Control ClassName="strHead" ControlType="11">
+        <Text><![CDATA[Salvataggio in corso ]]></Text>
+      </Control>
+      <Control ClassName="strMid" ControlType="11">
+        <Text><![CDATA[ di ]]></Text>
+      </Control>
+      <Control ClassName="strTail" ControlType="11">
+        <Text><![CDATA[ unità]]></Text>
+      </Control>
+      <Control ClassName="strStopTitle" ControlType="11">
+        <Text><![CDATA[Sei sicuro di voler annullare il processo di salvare i file?]]></Text>
+      </Control>
+      <Control ClassName="strSaveFiledTitle" ControlType="11">
+        <Text><![CDATA[La partizione dove desideri salvare i dati è stata rimossa. Il processo di salvataggio è terminato.]]></Text>
+      </Control>
+    </Dialog> 
+	 <Dialog ClassName="CMainWidget" >     
+      <!--所有扫描状态-->
+       <Control ClassName="m_strFileCount" ControlType="11" LabState="Normal">
+        <Text><![CDATA[File Trovati:]]></Text>
+      </Control>
+      <Control ClassName="m_strFileCount" ControlType="11" LabState="CheckSys">
+        <Text><![CDATA[Rilevamento di File di Sistema in corso...]]></Text>
+      </Control>
+      <Control ClassName="m_strSector" ControlType="11">
+        <Text><![CDATA[Settori Letti:]]></Text>
+      </Control>
+      <Control ClassName="m_strRemainTime" ControlType="11" LabState="IsScanning">
+        <Text><![CDATA[Tempo Rimanente:]]></Text>
+      </Control>
+      <Control ClassName="m_strRemainTime" ControlType="11" LabState="NoScanning">
+        <Text><![CDATA[Stiamo calcolando il Tempo Rimanente]]></Text>
+      </Control>
+	</Dialog>
+	<Dialog ClassName="CAboutDialog">
+      <Control ClassName="m_closeButton" ControlType="13">
+        <StatusTip StatusTipStr="Chiudi" />
+      </Control>     
+      <Control ClassName="lblVersion" ControlType="11">
+        <Text><![CDATA[Versione:]]></Text>
+        <Font Bold="1" PointSize="8" R="99" G="106" B="124" />
+        <Margins Left="240" Top="140" Width="100" Height="16" />
+      </Control>     
+      <Control ClassName="m_scrollMessageHead" ControlType="11">
+        <Text><![CDATA[Wondershare<br>Repairit]]></Text>
+      </Control>
+	  <Control ClassName="m_scrollMessageHead1" ControlType="11">>
+	    <Text>
+	    <![CDATA[Fondata nel 2003, Wondershare è un leader globale nello sviluppo di software e un pioniere nel campo della creatività digitale. La nostra tecnologia è potente e le soluzioni che forniamo sono semplici e convenienti. Questo è il motivo per cui abbiamo la fiducia di milioni di persone in oltre 150 paesi in tutto il mondo. Aiutiamo i nostri utenti a perseguire le loro passioni in modo che possiamo costruire insieme un mondo più creativo.  ]]>
+      </Text>  
+	  </Control>
+      <Control ClassName="m_scrollMessageCenter" ControlType="11">
+        <Text><![CDATA[Visita <a href="#1"><Font color="#007BFF">Wondershare</Font></a> e <a href="#2"><Font color="#007BFF">Wondershare Repairit</Font></a> per scoprire di più.]]></Text>
+      </Control>
+      <Control ClassName="m_scrollMessageTail" ControlType="11">
+        <Text><![CDATA[Copyright © 2021 Wondershare. Tutti i diritti riservati.]]></Text>
+      </Control>
+    </Dialog>
+    <Dialog ClassName="cmenuOption">
+      <Control ClassName="m_lblTitle" ControlType="1">
+        <Text><![CDATA[Opzioni Impostazione]]></Text>
+      </Control>
+      <Control ClassName="Interface" ControlType="1">
+        <Text><![CDATA[Interfaccia]]></Text>
+        <Margins Left="60" Top="55" Width="70" Height="22" />
+      </Control>
+      <Control ClassName="m_scanSeprator" ControlType="12">
+        <Margins Left="240" Top="130" Width="386" Height="3"></Margins>
+      </Control>
+      <Control ClassName="m_lanugageSeprator" ControlType="12">
+        <Margins Left="140" Top="65" Width="481" Height="3"></Margins>
+      </Control>
+      <Control ClassName="Language" ControlType="1">
+        <Text><![CDATA[Lingua]]></Text>
+         <Margins Left="60" Top="104" Width="70" Height="30"/>
+      </Control>
+      <Control ClassName="languageCombox" ControlType ="4">
+	   <Contents StringItems ="English(English),Japanese(日本語),French(Français),German(Deutsch),Chinese Simplified(中国),Portuguese(Português),Italiano(Italiano),Spanish(Español),Netherland(Nederlands),Arabic( العربية ),Korean(한국어)"/>
+       <FixSize FixHeight ="30" FixWidth ="170"/>
+        <Margins Left="136" Top="104" Width="155" Height="30" />
+      </Control>
+      <Control ClassName="scanTitle" ControlType="1">
+        <Text><![CDATA[Impostazioni di Recupero]]></Text>
+        <Margins Left="60" Top="117" Width="170" Height="22" />
+      </Control>
+      <Control ClassName="openFolderCheckBox" ControlType="5">
+        <Text><![CDATA[Terminato il processo di recupero, apri automaticamente la cartella di destinazione.]]></Text>
+        <Contents State="1" />
+         <FixSize FixHeight ="22"/>
+        <Margins Left="60" Top="150" Width="500" Height="22"/>
+      </Control>
+      <Control ClassName="okButton" ControlType="13">
+        <Text><![CDATA[OK]]></Text>
+        <Margins Left="335" Top="198" Width="100" Height="32" />
+      </Control>
+      <Control ClassName="cancelButton" ControlType="13">
+        <Text><![CDATA[Annulla]]></Text>
+       <Margins Left="195" Top="198" Width="100" Height="32" />
+      </Control>
+	  <Control ClassName="okButton1" ControlType="13">
+        <Text><![CDATA[OK]]></Text>
+      </Control>
+      <Control ClassName="cancelButton1" ControlType="13">
+        <Text><![CDATA[Annulla]]></Text>
+      </Control>
+      <Control ClassName="closeButton" ControlType="13">
+        <StatusTip StatusTipStr="Chiudi" />
+      </Control>
+    </Dialog>    
+    <Dialog ClassName="CMenuOptions">
+	  <Control ClassName="m_Menu" ControlType="6">
+        <Size Width="180" />
+      </Control>
+      <Control ClassName="m_optionsAction" ControlType="1">
+        <Text><![CDATA[Lingua]]></Text>
+      </Control>
